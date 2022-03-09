@@ -56,7 +56,7 @@ const TodoContainer = () => {
     //   status: newStatus,
     // };
 
-    // updateTodo(newtODO, todo.id).then((res) => {
+    // updateTodo(newtODO).then((res) => {
     //   getAllTodos();
     // });
     

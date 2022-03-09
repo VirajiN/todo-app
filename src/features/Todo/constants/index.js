@@ -1,0 +1,5 @@
+export const TODO_STATUS = {
+    TODO:"TODO",
+    INPROGRESS:"INPROGRESS",
+    COMPLETED:"COMPLETED"
+}
